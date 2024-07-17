@@ -1,0 +1,12 @@
+{
+    "Simulator Target Bundle": "com.RuchiraBandara.APNRichPushNotifications",
+    "aps": {
+        "category": "myNotificationCategory",
+        "alert": {
+            "title": "Photos",
+            "body": "This is new picture"
+        },
+        "mutable-content": 1
+    },
+    "urlImageString": "https://res.your.etihadguest.com/res/etihada_mkt_prod5/MicrosoftTeams-image.png"
+}
